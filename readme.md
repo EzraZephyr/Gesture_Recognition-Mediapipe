@@ -10,7 +10,7 @@ This project is a real-time gesture recognition system that captures hand moveme
 
 ## Demo
 
-https://github.com/user-attachments/assets/489c1797-fe9a-474a-8dfa-b55c9e482a79
+https://github.com/user-attachments/assets/a4f5fb6d-1516-4714-97af-30066f3eae75
 
 ## Table of Contents
 
