@@ -25,10 +25,10 @@ https://github.com/user-attachments/assets/a4f5fb6d-1516-4714-97af-30066f3eae75
 
 ## Features
 
-- **Real-time Gesture Recognition**: Captures hand gestures in real time through the camera.
-- **Finger Drawing**: Draws finger key points on the image, providing intuitive visual feedback.
-- **Screenshot Capture**: Automatically generates rectangles based on the drawn trajectory and saves the content within the rectangle to the `image` folder.
-- **Graphical User Interface**: Provides an easy-to-use GUI to start the camera, upload videos, and view gesture recognition results.
+- **Real-time Gesture Recognition**: Capture gesture actions in real time through the camera.
+- **Finger Draw**: Draw finger key points on the image and provide visual feedback.
+- **Capture screenshot**: Automatically generate a rectangle based on the drawn trajectory, and capture the content within the rectangular area and save it to the 'image' folder.
+- **Graphic User Interface**: Provides a simple GUI that can start the camera, upload videos and view gesture recognition results.
 
 ## Multilingual Comments
 
